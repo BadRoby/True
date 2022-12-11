@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Pasha Tehnik</title>
+</head>
+<body>
+    <a href="contacts.html">Контакты</a>
+    <h1 class="heading">Паша Техник</h1>
+        <div class="pasha">
+            <img src="../index3/images/pasha-tekhnik2-90.webp" alt="Pasha_Tehnik"width="600" height="400">
+        </div>
+    <h2 class="secondary">Содержание</h2>
+         <div class="content__menu1">
+            <ul>
+                <li class="menu_list"><a href="#biography" class="menu_link">Биография</a></li>
+                <li class="menu_list"><a href="#problems" class="menu_link">Проблемы с законом и рехабы</a></li>
+                <li class="menu_list"><a href="#incidents" class="menu_link">Инциденты</a></li>
+                <li class="menu_list"><a href="#personal" class="menu_link">Личная жизнь</a></li>
+                <li class="menu_list"><a href="#singles" class="menu_link">Участие в синглах</a></li>
+            </ul>
+        </div>
+        <div class="biography_main">
+            <p>Павел Николаевич Ивлев(род.&nbsp;1&nbsp;июля 1984, Москва, СССР), более известный как Па&#769;ша Те&#769;хник,&nbsp;&mdash; российский хип-хоп-исполнитель и&nbsp;музыкальный продюсер. Один из&nbsp;основателей группы Kunteynir. Известен своим эпатажным поведением и&nbsp;нарочито провокационным творчеством с&nbsp;обилием нецензурной лексики; часто называется одним из&nbsp;наиболее значительных рэперов в&nbsp;хип-хоп-андеграунде России
+            </p>
+        </div>
+    <h3 class="biography">Биография</h3>
+        <div class="biography_text">
+            <p>Родился 1&nbsp;июля 1984 года в&nbsp;Москве. В&nbsp;школе стал слушать русский рэп&nbsp;и, в&nbsp;частности, группу Bad Balance. В&nbsp;2001 году создал группу Kunteynir, в&nbsp;состав которой вошёл МС&nbsp;Смешной. Позже к&nbsp;Паше Технику присоединился MC&nbsp;Блев. В&nbsp;2004 году коллектив записал свой первый альбом &laquo;Эдвард руки ножницы бумага&raquo;. Затем последовали релизы &laquo;В&nbsp;г#вно&raquo; (2005), &laquo;Вес&raquo; (2006), &laquo;Блёвбургер&raquo; (2007). Среди основных тем творчества фигурировали наркомания, национализм, чёрный юмор.
+            </p>
+    <h3 class="problems">Проблемы с законом и рехабы</h3>
+        <div class="problems_text">
+            <p>
+                Проблемы с&nbsp;законом и&nbsp;рехабы
+                В&nbsp;2008 году был арестован по&nbsp;обвинению в&nbsp;хранении и&nbsp;распространении наркотиков. В&nbsp;2009 был приговорён к&nbsp;пяти годам лишения свободы в&nbsp;колонии строгого режима. Вышел на&nbsp;свободу в&nbsp;2013-ом году.
+                В&nbsp;декабре 2019 года Ивлев был лишён водительских прав на&nbsp;год и&nbsp;семь месяцев и&nbsp;оштрафован на&nbsp;30&nbsp;тысяч рублей за&nbsp;ДТП в&nbsp;состоянии алкогольного опьянения.
+                17&nbsp;июня 2020 года Ивлев был задержан в&nbsp;Балашихе за&nbsp;повторное вождение автомобиля в&nbsp;состоянии опьянения, в&nbsp;сентябре 2020 года ему был вынесен приговор в&nbsp;виде лишения свободы на&nbsp;11&nbsp;месяцев и&nbsp;запрета на&nbsp;вождение автомобиля на&nbsp;два года.&nbsp;23&nbsp;августа 2021 года Паша вышел из&nbsp;тюрьмы.
+                11&nbsp;ноября 2021 года Павел насильно был отправлен в&nbsp;рехаб на&nbsp;два месяца.&nbsp;10&nbsp;января 2022 покинул рехаб.
+                6&nbsp;ноября того&nbsp;же года дважды упал в&nbsp;обморок и&nbsp;снова был отправлен в&nbsp;рехаб.
+            </p>
+        </div>
+    <h3 class="incidents">Инциденты</h3>
+        <div class="incidents_text">
+            <p>
+                В&nbsp;феврале 2017 года приехал с&nbsp;концертов в&nbsp;Воронеж, где на&nbsp;него было совершено нападение: толпа неизвестных напали на&nbsp;Пашу, били фаллоимитатором и&nbsp;снимали всё на&nbsp;камеру, заставляя извиняться перед Мишей Маваши за&nbsp;пост, где Паша оскорбляет последнего.
+                В&nbsp;сентябре того&nbsp;же года слил в&nbsp;сеть интимные фотографии Oxxxymiron&rsquo;а со&nbsp;своей бывшей девушкой.
+                В&nbsp;октябре 2021 года на&nbsp;шоу &laquo;Наше дело&raquo; был избит Львом Против.
+                7&nbsp;октября 2022 года в&nbsp;новостных Telegram-каналах, появилась информация о&nbsp;том, что из-за злоупотребления наркотическими препаратами Паша Техник впал в&nbsp;кому. До&nbsp;этого в&nbsp;течение месяца у&nbsp;него были приступы эпилепсии. Рэпер был подключён к&nbsp;аппарату ИВЛ, у&nbsp;него начался отёк мозга, выявлены пневмония и&nbsp;пневмофиброз, также переломан нос.&nbsp;8&nbsp;октября, по&nbsp;сообщениям менеджера, Техник пришёл в&nbsp;сознание. В&nbsp;тот&nbsp;же день был выписан из&nbsp;больницы.
+        </p>
+        </div>
+    <h3 class="personal">Личная жизнь</h3>
+        <div class="personal_text">
+            <p>
+                Был&nbsp;женат на&nbsp;Карицкой Еве (Карине) Александровне. Есть сын Иван (род.&nbsp;2019).
+                В&nbsp;сентябре 2022 года стало известно, что новая девушка Катя Лоли рэпера ждёт от&nbsp;него ребёнка.&nbsp;20&nbsp;октября того&nbsp;же года пара рассталась. С&nbsp;ноября того&nbsp;же года Паша начал встречаться с&nbsp;трэш-блоггершей Юлией Финесс.
+            </p>
+        </div>
+        <h3 class="singles">Участие в синглах</h3>
+        <div class="singls_list">
+            <ul>
+                <li>2007&nbsp;&mdash; Рыночные отношения&nbsp;&mdash; &laquo;Топ девочки&raquo; (при участии Kunteynir)</li>
+                <li>2007&nbsp;&mdash; Чёрная экономика&nbsp;&mdash; &laquo;Баунс на&nbsp;корне&raquo; (при участии Kunteynir)</li>
+                <li>2007&nbsp;&mdash; Полумягкие&nbsp;&mdash; &laquo;За&nbsp;Краснодар&raquo; (при участии Паши Техника)</li>
+                <li>2008&nbsp;&mdash; Чёрная экономика&nbsp;&mdash; &laquo;Возможно педики&raquo; (при участии Kunteynir)</li>
+                <li>2014&nbsp;&mdash; Трагедия всей жизни&nbsp;&mdash; &laquo;В&nbsp;одних топсайдерах&raquo; (при участии Kunteynir)</li>
+                <li>2014&nbsp;&mdash; The Chemodan Clan&nbsp;&mdash; &laquo;Немелодичный рэп&raquo; (при участии Kunteynir)</li>
+                <li>2014&nbsp;&mdash; &laquo;Кристалы&raquo; (при участии Саши Скула)</li>
+                <li>2016&nbsp;&mdash; Замай и&nbsp;Слава КПСС&nbsp;&mdash; &laquo;Весна&raquo; (при участии Паши Техника, СД, MF&nbsp;Док и&nbsp;Овсянкина)</li>
+                <li>2017&nbsp;&mdash; ЛСП&nbsp;&mdash; &laquo;Тиктоник&raquo; (при участии Паши Техника)</li>
+                <li>2018&nbsp;&mdash; Morceau&nbsp;&mdash; &laquo;Фарту масти&raquo; (при участии Znx Gng и&nbsp;Паши Техника)</li>
+                <li>2018&nbsp;&mdash; Adalwolf&nbsp;&mdash; &laquo;Back On&nbsp;My&nbsp;Fuck Shit&raquo; (при участии Паши Техника)</li>
+                <li>2018&nbsp;&mdash; Goody&nbsp;&mdash; &laquo;Плохой Санта&raquo; (при участии Паши Техника)</li>
+                <li>2018&nbsp;&mdash; Adalwolf&nbsp;&mdash; &laquo;Swagshit&raquo; (при участии Паши Техника)</li>
+                <li>2018&nbsp;&mdash; Jewelxess&nbsp;&mdash; &laquo;Сушка&raquo; (при участии Паши Техника)</li>
+                <li>2018&nbsp;&mdash; Моргенштерн&nbsp;&mdash; &laquo;Город реперов&raquo; (при участии Паши Техника)</li>
+                <li>2020&nbsp;&mdash; CMH&nbsp;&mdash; &laquo;RPG&raquo; (при участии Паши Техника и&nbsp;Инстасамки)</li>
+                <li>2021&nbsp;&mdash; Metox&nbsp;&mdash; &laquo;Отвёртка&raquo; (при участии Паши Техника)</li>
+                <li>2022&nbsp;&mdash; Metan&nbsp;&mdash; &laquo;Девчонки дают&raquo; (при участии Паши Техника)</li>
+                <li>2022&nbsp;&mdash; Scally Milano&nbsp;&mdash; &laquo;Codeine&raquo; (совм.&nbsp;с&nbsp;Пашей Техником)</li>
+                <li>2022&nbsp;&mdash; Timurka Bits&nbsp;&mdash; &laquo;Там пончик&raquo; (при участии Паши Техника)</li>
+            </ul>
+        </div>
+        
+
+
+
+
+</body>
+</html>
